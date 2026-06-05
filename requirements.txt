@@ -1,0 +1,10 @@
+torch>=2.0.0
+torchvision>=0.15.0
+efficientnet-pytorch
+scikit-learn
+matplotlib
+numpy
+pandas
+pillow
+jupyter
+tqdm
